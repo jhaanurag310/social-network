@@ -263,21 +263,6 @@ This is a console-based educational project, so it has some limitations:
 * There is no graphical user interface.
 * There is no database or persistent storage.
 
-## 🔮 Future Improvements
-
-Possible improvements include:
-
-* Add file handling for permanent data storage.
-* Add password encryption/hashing.
-* Increase or dynamically manage follower limits.
-* Add posts and comments.
-* Add likes and reactions.
-* Add private messaging.
-* Add a search feature.
-* Add profile information.
-* Add a graphical user interface.
-* Connect the application to a database.
-
 ## 👨‍💻 Author
 
 **Anurag Jha**
